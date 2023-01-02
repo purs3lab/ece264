@@ -157,7 +157,7 @@ Sign in and find information and tools at your fingertips, available to you at a
  </ul>"
 
 
-baseurl: "/ee469" # the subpath of your site, e.g. /blog/
+baseurl: "/ece264" # the subpath of your site, e.g. /blog/
 url: "http://purs3lab.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Purdue University"
