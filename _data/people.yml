@@ -1,10 +1,10 @@
 instructors:
-  - name: Aravind Machiry
+  - name: Aravind Machiry (Section 3)
     profile_pic: /_images/pp/machiry.png
     webpage: https://machiry.github.io/
     email: amachiry@purdue.edu
     office_hours: "Friday (9:00 am - 12:00 pm)"
-    location: "EE 333"
+    location: "WALC 1018"
 
 teaching_assistants:
   - name: Gokulan Ravi
