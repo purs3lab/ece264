@@ -1,5 +1,5 @@
 # Site settings
-course_name: ECE469 - Operating Systems Engineering
+course_name: ECE264 - Advanced C Programming
 course_description: "This course teaches how internals of modern operating systems are working with
 hardware/software stack. In the course, we will learn fundamental concepts of operating systems by
 building an operating system by our own hand. In particular, Labs are based on JOS, an educational OS project,
