@@ -1,4 +1,8 @@
 policies:
-  - You have free 2 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
-  - Once you have used all 2 late days, the penalty is 10% for each additional late day.
+  - Except for medical and family emergencies (accompanied by
+    verification), there will be no individual extensions granted for programming
+    assignments. Late submissions will be scaled according to lateness, docking 10% from
+    your score per day late, up to a maximum of 50%. Submissions more than 5 days late
+    will be assigned a score of 0.
+  - For instance, if you are late by 2 days (i.e., 25-48 hours), you will be penalized 20%.
+    if you score is 90, then your final score after penalty will be 90 - (20% of 90) = 90 - 18 = 72
