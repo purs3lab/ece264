@@ -16,14 +16,14 @@ layout: default
 
     <h2><b>Course Description</b></h2>
     <p>{{ site.course_description }}</p>
-    <h3><b>Text Book</b></h3>
-    <p>{{ site.text_book }}</p>
-    <h3><b>Grading and Evaluation</b></h3>
-    <p>{{ site.evaluation }}</p>
-    <h3><b>Prerequisites</b></h3>
-    <p>{{ site.course_prereqs }}</p>
     <h3><b>Learning Objectives</b></h3>
     <p>{{ site.learning_objectives }}</p>
+    <h3><b>Text Book</b></h3>
+    <p>{{ site.text_book }}</p>
+    <h3><b>Prerequisites</b></h3>
+    <p>{{ site.course_prereqs }}</p>
+    <h3><b>Grading and Evaluation</b></h3>
+    <p>{{ site.evaluation }}</p>
     <h3><b>Academic Integrity Policy and Cheating</b></h3>
     <p>{{ site.course_policies }}</p>
     <h3><b>Nondiscrimination Statement</b></h3>
@@ -34,8 +34,6 @@ layout: default
     <p>{{ site.emergency_preparation }}</p>
     <h3><b>Mental Health Statement</b></h3>
     <p>{{ site.mental_health }}</p>
-    <h3><b>Logistics</b></h3>
-    {{ content }}
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
     <h2>Previous Offerings</h2>
@@ -78,10 +76,39 @@ layout: default
 
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
-                {% for ta in site.data.people.teaching_assistants %}
+                <h2>Graduate Teaching Assistants</h2>
+                {% for ta in site.data.people.gta_teaching_assistants %}
                 <div class="image--cover-container">
+                    {% if ta.profile_pic %}
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% endif %}
+                    {% if ta.email %}
+                    <p><a href="mailto:{{ta.email}}">{{ta.name}}</a></p>
+                    {% else %}
+                    <p>{{ta.name}}</p>
+                    {% endif %}
+                    {% if ta.office_hours %}
+                    <p>Office Hours: {{ta.office_hours}}</p>
+                    {% endif %}
+                    {% if ta.lab_hours %}
+                    <p>Lab Hours: {{ta.lab_hours}}</p>
+                    {% endif %}
+                    {% if ta.location %}
+                    <p>Location: {{ta.location}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div style="width:65%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Undergraduate Teaching Assistants</h2>
+                {% for ta in site.data.people.uta_teaching_assistants %}
+                <div class="image--cover-container">
+                    {% if ta.profile_pic %}
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% endif %}
                     {% if ta.email %}
                     <p><a href="mailto:{{ta.email}}">{{ta.name}}</a></p>
                     {% else %}

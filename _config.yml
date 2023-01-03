@@ -6,20 +6,14 @@ course_description: "This course teaches advanced concepts in C programming."
 evaluation: "
 We will use the following distribution for grading:
 <ul>
-  <li>Labs (Total: 80%).</li>
+  <li>Programming Assignments (12 out of 18): 60%.</li>
+  <li> Knowledge Exams (Online through Brightspace)</li>
   <ul>
-  <li>Lab 1 (5%)</li>
-  <li>Lab 2 (10%)</li>
-  <li>Lab 3 (16%)</li>
-  <li>Lab 4 (21%)</li>
-  <li>Lab 5 (28%)</li>
+  <li>Weekly Quizzes (10 out of 12): 1% each. Total: 10%</li>
+  <li>Midterm and Finals (3 out of 4): 10% each. Total: 30%</li>
   </ul>
-  <li>Midterm (10%).</li>
-  <li>Final (10%).</li>
-  <li>Some extra credits in JOS Labs (1% or 2% each).</li>
+  <li>Bonus (Based on Class Participation): 5%.</li>
 </ul>
-This is an implementation heavy and relatively tough course with more than one-third of the grade depends on the successful
-completion of the labs.
 
 <p/>
 
