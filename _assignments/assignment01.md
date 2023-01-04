@@ -5,7 +5,7 @@ enable: yes
 title: 'Assignment #1 - Git, Make and Gcc'
 due_event: 
     type: due
-    date: 2023-01-16T23:59:00+3:30
+    date: 2023-01-23T23:59:00+3:30
     description: 'Assignment #1 due'
 ---
 
