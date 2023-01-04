@@ -1,6 +1,6 @@
 ---
 layout: assignments
-title: Labs
+title: Programming Assignments
 permalink: /labs/
 ---
 There will be approximately one programming
@@ -59,6 +59,60 @@ This can be obtained for free at [GitHub](https://github.com).
 **Important: Please submit your GitHub username along with other details in this [Classroom form](https://forms.gle/afjQoHubsh67GKA1A) by Friday, January 13th.**
 
 We will add you to the Github classroom and from which you can access your homeworks.
+
+## Structures of Assignments
+
+At the top of every file, there is clear indication whether you should modify the file or not.  You must follow the instruction.
+If you modify a file must not be changed, you will likely lose points.
+
+Everything you write must be enclosed within
+
+`#ifdef`
+
+and
+
+`#endif`
+
+The reason is that we may replace the functions to give you partial credits by turning on or off specific blocks.  
+If you write anything outside `#ifdef` and `#endif` and your code happens to have mistakes, the mistakes cannot be removed.
+As a result, your program cannot receive partial credits.
+
+# IMPORTANT THINGS TO NOTE
+
+## Your Programs Must Not Crash and Must Not Leak Memory
+
+Your program must not crash and must not leak memory in any case.
+Memory management is an essential part of writing good C programs.  If
+you cannot manage memory, you cannot write good C programs.
+
+You will lose 1 point for every leaked byte. If your program leaks
+memory, it is very likely that you will receive zero.
+
+You should know how to check memory errors: using `valgrind` . If your
+program leaks memory, it is like an airplane that leaks fuel.  Would
+you take a flight if the plane leaks fuel? An airplane should not fly
+if it leaks fuel. Your program *DOES NOT* work if it leaks
+memory. Don't fool yourself and claim that your program works.  Talk
+to professional software developers. Everyone will tell you memory
+leak is *unacceptable*.
+
+## Keep An Open Mind: It is possible that your programs are wrong
+
+Do not say, "My program works fine when I test it. I am 100% sure my
+program is correct.  My program is absolutely perfect."  Many people
+have said that and so far all of their programs have problems.  The
+teaching staff accepts the possibility that they may be wrong. Please
+also open your mind and accept the *possibility* that your program
+*may* be wrong.  Before you get angry and think you are not treated
+fairly, understand what happens.  The teaching staff provides all
+information you need to test your programs.
+
+## Computers are Stupid, By Design
+
+Computers are designed during the second World War and Cold War to
+control weapons. As a result, computers are stupid by design.
+Computers do exactly what programs tell them to do.  Computers cannot
+guess your mind. Computers cannot tolerate "small" mistakes.
 
 ## Academic Integrity and Cheating
 
