@@ -8,3 +8,5 @@ due_event:
     date: 2023-01-23T23:59:00+3:30
     description: 'Assignment #2 due'
 ---
+
+[Github Classroom Link](https://classroom.github.com/a/ll6z9leD)
