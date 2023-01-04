@@ -10,24 +10,21 @@ instructors:
     profile_pic: /_images/pp/lu.jpeg
     webpage: https://yhlu.net/
     email: yunglu@purdue.edu
-    office_hours: "TWTh (3:00 pm - 4:00 pm)"
-    location: "BHEE 333"
+    office_hours: "MTWThF (10:00 am - 10:30 am)"
+    location: "https://purdue-edu.zoom.us/s/94140512315"
 
 gta_teaching_assistants:
   - name: Poulomi Pradhan
     email: pradhan9@purdue.edu
-    office_hours: "Wednesday (9:30 am - 12:30 pm)"
-    location: "EE 209"
+    office_hours: "Check Schedule Pic"
 
   - name: Sharath Hebbur Shivakumar
     email: shebburs@purdue.edu
-    office_hours: "Monday (9:30 am - 12:30 pm)"
-    location: "EE 208"
+    office_hours: "Check Schedule Pic"
 
   - name: Arun Bhattar
     email: bhattar1@purdue.edu
-    office_hours: "Wednesday (1:30 pm - 4:30 pm)"
-    location: "EE 208"
+    office_hours: "Check Schedule Pic"
 
 uta_teaching_assistants:
   - name: Poulomi Pradhan

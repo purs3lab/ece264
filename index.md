@@ -10,4 +10,4 @@ Join our [Piazza](https://piazza.com/purdue/spring2023/ece264) for course relate
 
 ### **Office hours and Lab hours Schedule**
 
-![schedule2022](/static_files/fig/schedule2022.png)
+![schedule2023](/static_files/fig/schedule2023.png)
