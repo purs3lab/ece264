@@ -1,12 +1,12 @@
 ---
 type: lecture
-date: 2023-01-10T8:00:00+4:30
-enddate: 2023-01-12T8:00:00+4:30
-title: "Welcome, Course Introduction, C Programmming, GitHub Classroom" 
+date: 2023-01-24T8:00:00+4:30
+enddate: 2023-01-26T8:00:00+4:30
+title: "More heap, Files, and Structures." 
 tldr: "Course Introduction and Logistics."
 thumbnail: /static_files/presentations/introduction.jpeg
 links:
-    - url: /static_files/presentations/week1.pdf
+    - url: /static_files/presentations/week3.pdf
       name: slides
 ---
 **Code:**
