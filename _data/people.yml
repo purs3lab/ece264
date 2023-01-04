@@ -27,22 +27,34 @@ gta_teaching_assistants:
     office_hours: "Check Schedule Pic"
 
 uta_teaching_assistants:
-  - name: Poulomi Pradhan
-    email: ravig@purdue.edu
-    office_hours: "Wednesday (9:30 am - 12:30 pm)"
-    location: "EE 209"
+  - name: Yu-Hsu Chang
+    email: chang758@purdue.edu
+    office_hours: "Check UTA Schedule Pic"
 
-  - name: Sharath Hebbur Shivakumar
-    email: bakhi@purdue.edu
-    office_hours: "Monday (9:30 am - 12:30 pm)"
-    location: "EE 208"
+  - name: Glen Shaofu Cheng
+    email: gscheng@purdue.edu
+    office_hours: "Check UTA Schedule Pic"
 
-  - name: Arun Bhattar
-    email: sjaganm@purdue.edu
-    office_hours: "Wednesday (1:30 pm - 4:30 pm)"
-    location: "EE 208"
+  - name: Sudhanva Donakonda
+    email: sdonakon@purdue.edu
+    office_hours: "Check UTA Schedule Pic"
 
-  - name: Pranab Dash
-    email: dashp@purdue.edu
-    office_hours: "Thursday (1:00 pm - 4:00 pm)"
-    location: "EE 209"
+  - name: Jakob Mathew Slason
+    email: jslason@purdue.edu
+    office_hours: "Check UTA Schedule Pic"
+
+  - name: Zixiao Ma
+    email: ma747@purdue.edu
+    office_hours: "Check UTA Schedule Pic"
+
+  - name: Justice Taylor Rowe
+    email: jtrowe@purdue.edu
+    office_hours: "Check UTA Schedule Pic"
+
+  - name: Sreevickrant Sreekanth
+    email: ssreekan@purdue.edu
+    office_hours: "Check UTA Schedule Pic"
+
+  - name: Brian Andrew Yuan
+    email: bayuan@purdue.edu
+    office_hours: "Check UTA Schedule Pic"

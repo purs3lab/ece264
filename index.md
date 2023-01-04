@@ -8,6 +8,6 @@ layout: home
 
 Join our [Piazza](https://piazza.com/purdue/spring2023/ece264) for course related collaborations!
 
-### **Office hours and Lab hours Schedule**
+### **Instructor and GTA Office hours Schedule**
 
 ![schedule2023](/static_files/fig/schedule2023.png)
