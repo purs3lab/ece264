@@ -63,7 +63,7 @@ Programming assignments will be submitted via [GitHub Classroom](https://classro
 As such, **you are required to have a GitHub account**.
 This can be obtained for free at [GitHub](https://github.com).
 
-**Important: Please submit your GitHub username along with other details in this [Classroom form](https://forms.gle/afjQoHubsh67GKA1A) by Friday, January 13th.**
+**Important: Please submit your GitHub username along with other details in this [Classroom form](https://forms.gle/afjQoHubsh67GKA1A) by Wednesday, January 11th.**
 
 We will add you to the Github classroom and from which you can access your homeworks.
 
