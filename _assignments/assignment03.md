@@ -9,4 +9,4 @@ due_event:
     description: 'Assignment #3 due'
 ---
 
-[Github Classroom Link](https://classroom.github.com/a/cIuVqmHW)
+[comment]: [Github Classroom Link](https://classroom.github.com/a/cIuVqmHW)
