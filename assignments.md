@@ -19,6 +19,13 @@ For instance, if you have submitted 13 assignments. We will sort the scores of a
 
 This should provide you enough lee way to accommodate unexpected circumstances where you might have to miss a homework, submit it late, etc.
 
+## DIFFICULTY OF HOMEWORK
+The first several homework assignments are intentionally easier than the others.
+The purpose is to give you time to set up your programming environment, familiarize yourself with the tools, and review the topics from CS 159 (if necessary).
+Later assignments are considerably more difficult.
+It is important that you do well at the beginning of the semester.
+If you do poorly at the beginning, it would be almost impossible to gain enough points later and get a good grade.
+
 ### Additional Learning Constraints
 Although, you have some choice in assignments. There are the following additional constraints:
 
@@ -76,6 +83,28 @@ and
 The reason is that we may replace the functions to give you partial credits by turning on or off specific blocks.  
 If you write anything outside `#ifdef` and `#endif` and your code happens to have mistakes, the mistakes cannot be removed.
 As a result, your program cannot receive partial credits.
+
+## How to Write High-Quality Software
+If you ask the students that have taken ECE 264, many will tell you that ECE 264 "transformed" them from casual programmers to serious software developers. 
+To put it another way, in ECE 264, you learn how to develop serious software that may be used by others.
+
+Do you notice the selection of words? Programmer and Software Developer? Are they different? Yes, they are different.
+
+Developing software is much more than writing code (i.e., programming). As a rough analogy, developing software is like building a house and writing code is like laying bricks. Building a house is much more than laying bricks. Before laying down bricks, you need to design the house. How many floors? Is there a basement? How many rooms? Is there a garage? How would electrical wires, air flow, and water pipes be connected?
+
+Imagine laying bricks for a house before you have a design. It would be a total disaster. Many students, however, want to start writing code before they have designed the software. The results would be predictable failures.
+
+Many students mistakenly believe that they should spend most time debugging. They want to write code quickly and then debug. This is completely wrong. This is like building a house first, demolish some parts, rebuild, demolish some other parts, and rebuild. Imagine that a house has been built and the owner discovers that there is no electric sockets for the kitchen. How much effort (and money) would be needed to correct this mistake? This is crazy and, frankly, stupid. You should spend most time designing, not debugging.
+
+Design before writing code. This is the rule. You will not be the first person to break this rule. Do not try.
+
+Many students think developing software is about creativity and they cannot be restricted by rules. This is also wrong. Every creative person must fully understand their tools and the boundaries of these tools. A musician must know many melodies. A painter must know how colors interact. A gymnast needs to follow the law of gravity. An interior designer must understand sunlight and seasons. A software developer needs to understand the process of creating software.
+
+Remember: spend time on design, not on debugging.
+
+Another common mistake is to start coding without reading and understanding the entire assignment's requirements. Can it be possible to solve a problem without understanding the problem? During office hours, about 40% people ask questions before they read the assignments carefully. These students waste their own time (and the time of the teaching assistants).
+
+Every software developer needs to know debugging process. The best strategy, however, is to prevent bugs through careful design. Then, it is important to detect bugs automatically by writing testing code.
 
 # IMPORTANT THINGS TO NOTE
 
@@ -149,3 +178,23 @@ Because that is the expectations of professional software developers.
 Computer software is used in many systems that might cause injuries or loss of lives (such as flight control or autonomous vehicles).
 It is critical to follow the specifications precisely. If you want to pursue engineering as your career, you must understand the needs of following specifications.
 
+## Grading is based on Submissions, Only
+**In absolutely no circumstance can the teaching staff modify your program for grading.**
+
+You cannot say, "If you change this, my program works."
+If your program misses a semicolon and cannot compile, you will receive zero. Your score depends on what is submitted, nothing else.
+
+Yes, we have to tell you again because a few people do not listen.
+
+The teaching staff is strictly prohibited checking what is stored in your computer (or your ECN account) for grading.
+Your score depends on what is submitted. NEVER say "I finished before the deadline but I forgot to submit".
+NEVER say "I have not made any change after the submission deadline." because the teaching staff is not allowed to look at your files that have not been submitted through GitHub Classroom.
+If a file is not submitted and pushed, it cannot be graded. There is no exception in any case.
+
+It is possible (and likely) that additional test cases will be used for grading. If your program fails any of the additional tests, you will lose points.
+It is your responsibility to create additional test cases.
+
+## DO NOT SEND YOUR CODE TO TEACHING STAFF
+
+Under absolutely no circumstance (unless explicitly asked to do so) will the teaching staff (instructors and teaching assistants) debug your programs without your presence.
+Such **email is ALWAYS ignored**. If you need help, go to office or lab hours.
