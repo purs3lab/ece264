@@ -9,5 +9,3 @@ links:
     - url: /static_files/presentations/week3.pdf
       name: slides
 ---
-**Code:**
-- [Text Book: OS Introduction](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
