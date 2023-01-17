@@ -8,4 +8,6 @@ thumbnail: /static_files/presentations/introduction.jpeg
 links:
     - url: /static_files/presentations/week1.pdf
       name: slides
+    - url: /static_files/presentations/week1_2.pdf
+      name: slides2
 ---
