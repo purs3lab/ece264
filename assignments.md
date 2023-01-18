@@ -12,6 +12,8 @@ differences.
 
 **All programming assignments should be done individually.**
 
+**We have merged HW1 and HW2. There will be NO HW2. We will have HW1, HW3, HW4,..etc.**
+
 ## More Assignments and More Choices
 
 You will have approximately 18 assignments. However, we will only take the top 12 scores to compute the final grade.
