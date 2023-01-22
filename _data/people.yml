@@ -27,10 +27,6 @@ gta_teaching_assistants:
     office_hours: "Check GTA Schedule Pic"
 
 uta_teaching_assistants:
-  - name: Yu-Hsu Chang
-    email: chang758@purdue.edu
-    office_hours: "Check UTA Schedule Pic"
-
   - name: Gavin James Zyonse
     email: gzyonse@purdue.edu
     office_hours: "https://purdue-edu.zoom.us/j/93144944951"
