@@ -5,7 +5,7 @@ enable: yes
 title: 'Assignment #5 - Read Numbers From File.'
 due_event: 
     type: due
-    date: 2023-02-06T23:59:00+3:30
+    date: 2023-02-13T23:59:00+3:30
     description: 'Assignment #5 due'
 ---
 
