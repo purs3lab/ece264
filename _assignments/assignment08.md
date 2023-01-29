@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2023-01-10T8:00:00+4:30
+date: 2023-01-29T8:00:00+4:30
 enable: yes
 title: 'Assignment #8 - Structures and Binary Files.'
 due_event: 
