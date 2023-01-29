@@ -6,6 +6,6 @@ title: "Binary Trees (Part 3)."
 tldr: "Course Introduction and Logistics."
 thumbnail: /static_files/presentations/introduction.jpeg
 links:
-    - url: /static_files/presentations/week8.pdf
+    - url: /static_files/presentations/week7.pdf
       name: slides
 ---
