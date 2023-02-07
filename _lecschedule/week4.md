@@ -8,4 +8,6 @@ thumbnail: /static_files/presentations/introduction.jpeg
 links:
     - url: /static_files/presentations/week4.pdf
       name: slides
+    - url: https://youtu.be/eDU1CcCsr_k
+      name: Feb_02_Zoom_Lecture
 ---
