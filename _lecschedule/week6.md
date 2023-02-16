@@ -6,6 +6,8 @@ title: "Exam 1 Review, Dynamic Structures and Linked List (Part 2)."
 tldr: "Course Introduction and Logistics."
 thumbnail: /static_files/presentations/introduction.jpeg
 links:
-    - url: /static_files/presentations/week5.pdf
-      name: slides
+    - url: /static_files/presentations/week6.pdf
+      name: Tuesday
+    - url: /static_files/presentations/week6_2.pdf
+      name: Thursday
 ---
