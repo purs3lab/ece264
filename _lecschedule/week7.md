@@ -6,6 +6,6 @@ title: "Dynamic Structures and Linked List (Part 3)."
 tldr: "Course Introduction and Logistics."
 thumbnail: /static_files/presentations/introduction.jpeg
 links:
-    - url: /static_files/presentations/week5.pdf
+    - url: /static_files/presentations/week7.pdf
       name: slides
 ---
