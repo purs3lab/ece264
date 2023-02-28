@@ -6,6 +6,6 @@ title: "Exam 2 Review and Binary Trees (Part 2)."
 tldr: "Course Introduction and Logistics."
 thumbnail: /static_files/presentations/introduction.jpeg
 links:
-    - url: /static_files/presentations/week7.pdf
+    - url: /static_files/presentations/week9.pdf
       name: slides
 ---
