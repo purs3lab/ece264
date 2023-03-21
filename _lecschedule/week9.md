@@ -7,5 +7,7 @@ tldr: "Course Introduction and Logistics."
 thumbnail: /static_files/presentations/introduction.jpeg
 links:
     - url: /static_files/presentations/week9.pdf
-      name: slides
+      name: Tuesday
+    - url: /static_files/presentations/week9_2.pdf
+      name: Thursday
 ---
