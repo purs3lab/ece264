@@ -6,6 +6,6 @@ title: "Exam 3 Review and More Huffman coding."
 tldr: "Course Introduction and Logistics."
 thumbnail: /static_files/presentations/introduction.jpeg
 links:
-- url: /static_files/presentations/week12.pdf
-name: slides
+    - url: /static_files/presentations/week12.pdf
+      name: slides
 ---
