@@ -5,7 +5,7 @@ enable: yes
 title: 'Assignment #14 - Convert Infix Expression to Postfix Expression.'
 due_event: 
     type: due
-    date: 2023-04-10T23:59:00+3:30
+    date: 2023-04-12T23:59:00+3:30
     description: 'Assignment #14 due'
 ---
 
